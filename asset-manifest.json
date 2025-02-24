@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ruel1912/chess/static/css/main.6ab370bb.css",
+    "main.js": "/Ruel1912/chess/static/js/main.31b12d91.js",
+    "index.html": "/Ruel1912/chess/index.html",
+    "main.6ab370bb.css.map": "/Ruel1912/chess/static/css/main.6ab370bb.css.map",
+    "main.31b12d91.js.map": "/Ruel1912/chess/static/js/main.31b12d91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ab370bb.css",
+    "static/js/main.31b12d91.js"
+  ]
+}
